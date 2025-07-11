@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Reactjs, Nextjs & Nodejs/Expressjs**
 
-- 🤝 I’m looking for help with **CSS**
+- 🤝 I’m looking for help with **ReactJs and NextJs**
 
 - 👨‍💻 All of my projects are available at [arunjangir8.github.io/portfolio2.0/](arunjangir8.github.io/portfolio2.0/)
 
