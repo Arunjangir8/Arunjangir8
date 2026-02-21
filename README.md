@@ -1,219 +1,116 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Arun&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20SaaS%20Builder&descAlignY=58&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=header&text=Arun&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Dev%20%7C%20AI%20Enthusiast%20%7C%20SaaS%20Builder&descAlignY=63&descSize=14"/>
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=⚛️+React+%7C+Node.js+%7C+Next.js+%7C+TypeScript;🤖+AI-Integrated+App+Developer;🛒+Shopify+Remix+%7C+GPT-4o+Integration;💡+260%2B+LeetCode+Problems+Solved;🚀+Full+Stack+Developer+%40+Commkraft)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=⚛️+React+%7C+Node.js+%7C+Next.js+%7C+TypeScript;🤖+GPT-4o+%7C+Shopify+Remix+%7C+LangChain;💡+260%2B+LeetCode+%7C+1500%2B+Rating+%7C+Full+Stack+%40+Commkraft)](https://git.io/typing-svg)
 
-<!-- Social Badges -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/arun-9406a4283/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/arun8886">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/arun8886/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
+<p>
+<a href="https://www.linkedin.com/in/arun-9406a4283/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/arun8886"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://leetcode.com/u/arun8886/"><img src="https://img.shields.io/badge/LeetCode_1500+-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Codeforces_1000+-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=arun8886&style=flat-square&color=00d9ff&label=Views"/>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=arun8886&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS" alt="Profile Views"/>
-
 </div>
 
 ---
 
-<!-- About Me -->
-<img align="right" alt="Coding Animation" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<table width="100%"><tr>
+<td width="50%" valign="top">
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
+🎓 B.Tech AI · Newton School of Tech `2024–28`  
+💼 Full Stack Intern @ **Commkraft** *(May 2025–Now)*  
+🤖 GPT-4o · Shopify Remix · AI-Integrated Apps  
+💡 260+ LeetCode · **1500+** rating  
+🏆 Codeforces **1000+** rating  
+🚀 SaaS · Real-time · Scalable Systems  
 
-🎓 **B.Tech (AI)** — Newton School of Technology, Rishihood University `2024–2028`  
-💼 **Full Stack Developer Intern** @ [Commkraft](https://commkraft.com) *(May 2025 – Present)*  
-🤖 **Building** AI-integrated apps with GPT-4o & Shopify Remix  
-💡 **260+ LeetCode** problems solved | **1500+ Rating**  
-🏆 **1000+ Codeforces** rating  
-🚀 Passionate about **SaaS**, **Real-time apps** & **scalable systems**  
-📍 **Remote** | Open to opportunities  
+### 🛠️ Tech Stack
+**Languages**  
+<img src="https://skillicons.dev/icons?i=js,ts,python,html,css&theme=dark&perline=5"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
-<br clear="right"/>
+**Frontend**  
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,jquery&theme=dark&perline=5"/>
+<img src="https://img.shields.io/badge/AntD-0170FE?style=flat-square&logo=ant-design&logoColor=white"/>
+<img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white"/>
 
----
+**Backend & DB**  
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,mysql&theme=dark&perline=5"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
 
-## 🏅 Competitive Programming
+**AI & Tools**  
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel&theme=dark&perline=5"/>
+<img src="https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square&logo=graphql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=3395FF"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white"/>
 
-<div align="center">
+</td>
+<td width="50%" valign="top">
 
-| Platform | Stat |
-|----------|------|
-| 🟡 **LeetCode** | 260+ Problems · Rating: **1500+** |
-| 🔵 **Codeforces** | Rating: **1000+** |
-
-<a href="https://leetcode.com/u/arun8886/">
-  <img src="https://leetcard.jacoblin.cool/arun8886?theme=dark&font=Fira%20Code&ext=heatmap" width="480" alt="LeetCode Stats"/>
-</a>
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,sql&theme=dark"/>
-</p>
-
-### ⚛️ Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,jquery&theme=dark"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shopify%20Remix-96BF48?style=for-the-badge&logo=shopify&logoColor=white"/>
-</p>
-
-### 🖥️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Prisma%20ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql&theme=dark"/>
-</p>
-
-### 🤖 AI & Integrations
-<p>
-  <img src="https://img.shields.io/badge/GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=graphql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF"/>
-</p>
-
-### ⚙️ Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,render&theme=dark"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Clerk%20Auth-6C47FF?style=for-the-badge&logo=clerk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nodemailer-009CAB?style=for-the-badge&logo=minutemailer&logoColor=white"/>
-</p>
-
-</div>
-
----
-
-## 💼 Experience
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  🏢  Commkraft — Full Stack Developer Intern                     │
-│  📅  May 2025 – Present   |   📍 Remote                         │
-│                                                                  │
-│  Stack: Node.js · Express.js · Shopify Remix · ReactJS          │
-│         TypeScript · Ant Design · GPT-4o API                    │
-│                                                                  │
-│  ✅  AI-powered automation with GPT-4o integration              │
-│  ✅  Scalable web apps with Shopify Remix + TypeScript           │
-│  ✅  Modular, responsive UIs with ReactJS + Ant Design           │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-## 🧠 Developer Profile in Code
+### 🧠 Developer Profile
 
 ```typescript
 const arun = {
-  name: "Arun",
-  education: "B.Tech AI @ Newton School of Technology (2024–2028)",
-  internship: "Full Stack Developer @ Commkraft",
+  education: "B.Tech AI @ NST (2024–28)",
+  internship: "Full Stack Dev @ Commkraft",
 
-  languages: ["TypeScript", "JavaScript", "Python", "SQL", "HTML", "CSS"],
-
+  languages: [
+    "TypeScript", "JavaScript",
+    "Python", "SQL", "HTML", "CSS"
+  ],
   stack: {
-    frontend:  ["React.js", "Next.js", "Tailwind CSS", "Ant Design", "Shopify Remix"],
-    backend:   ["Node.js", "Express.js", "Socket.IO"],
-    database:  ["MongoDB", "PostgreSQL", "MySQL", "Prisma ORM"],
-    ai:        ["GPT-4o API", "LangChain", "LangGraph"],
-    tools:     ["Git", "Postman", "Clerk Auth", "Razorpay", "Nodemailer", "JWT"],
+    frontend: [
+      "React.js", "Next.js",
+      "Tailwind", "Ant Design", "Remix"
+    ],
+    backend:  ["Node.js", "Express", "Socket.IO"],
+    database: ["MongoDB", "PostgreSQL",
+               "MySQL", "Prisma ORM"],
+    ai:       ["GPT-4o", "LangChain", "LangGraph"],
+    tools:    ["Git", "Clerk", "Razorpay", "JWT"],
   },
-
   achievements: {
-    leetcode:   "260+ problems · Rating 1500+",
+    leetcode:   "260+ · Rating 1500+",
     codeforces: "Rating 1000+",
     grade:      "82.0%",
   },
-
-  currentlyBuilding: "AI-integrated SaaS products 🚀",
-  lookingFor: "Exciting full-stack & AI opportunities 🤝",
-  funFact: "I turn ☕ + 🤖 into production-ready apps",
+  building: "AI-integrated SaaS 🚀",
+  funFact:  "☕ + 🤖 = Production Apps",
 };
 ```
 
----
-
-## 📈 Contribution Graph
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arun8886&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&area_color=00D9FF" width="100%"/>
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=arun8886&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=fff&ring_color=00D9FF&hide=contribs&rank_icon=github"/>
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=arun8886&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=fff&currStreakNum=fff&sideNums=fff&dates=888"/>
+
 </div>
 
+</td>
+</tr></table>
+
 ---
 
 <div align="center">
 
-<!-- Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="80%"/>
 </picture>
 
-</div>
-
----
-
-<div align="center">
-
-### 📬 Let's Connect & Build Something Extraordinary!
-
-<a href="https://www.linkedin.com/in/arun-9406a4283/">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/arun-9406a4283/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 &nbsp;
-<a href="mailto:arun.2024@nst.rishihood.edu.in">
-  <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="mailto:arun.2024@nst.rishihood.edu.in"><img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<br/><br/>
-
-> *"Every great product starts with a problem worth solving — I'm here to solve them."* 🚀
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer"/>
 
 </div>
