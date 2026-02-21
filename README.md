@@ -22,7 +22,7 @@
 
 <table width="100%">
 <tr>
-<td width="48%" valign="top" align="left">
+<td width="38%" valign="top" align="left">
 
 ### 👨‍💻 About Me
 
@@ -42,9 +42,8 @@
 
 </td>
 
-<td width="4%"></td>
 
-<td width="48%" valign="top">
+<td width="58%" valign="top">
 
 <div align="center">
 
