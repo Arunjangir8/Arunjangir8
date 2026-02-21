@@ -12,6 +12,8 @@
 <a href="https://leetcode.com/u/arun8886/"><img src="https://img.shields.io/badge/LeetCode_1500+-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
 &nbsp;
 <a href="https://arunjangir.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white"/></a>
+&nbsp;
+<a href="mailto:arun.2024@nst.rishihood.edu.in"><img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 </div>
@@ -38,6 +40,12 @@
 
 <br/>
 
+</td>
+
+<td width="4%"></td>
+
+<td width="48%" valign="top">
+
 <div align="center">
 
 ### 🛠️ Tech Stack
@@ -48,7 +56,7 @@
 
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
-<br/><br/>
+<br/>
 
 **Frontend**
 
@@ -58,7 +66,7 @@
 &nbsp;<img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white"/>
 &nbsp;<img src="https://img.shields.io/badge/Shopify_Remix-96BF48?style=flat-square&logo=shopify&logoColor=white"/>
 
-<br/><br/>
+<br/>
 
 **Backend & Database**
 
@@ -67,7 +75,7 @@
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
 &nbsp;<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
 
-<br/><br/>
+<br/>
 
 **AI & Tools**
 
@@ -84,66 +92,12 @@
 </div>
 
 </td>
-
-<td width="4%"></td>
-
-<td width="48%" valign="top">
-
-### 🧠 &nbsp; Developer Profile
-
-```typescript
-const arun = {
-  education:  "B.Tech AI @ NST (2024–28)",
-  internship: "Full Stack Dev @ Commkraft",
-
-  languages: [
-    "TypeScript", "JavaScript",
-    "Python", "SQL", "HTML", "CSS",
-  ],
-
-  stack: {
-    frontend: [
-      "React.js", "Next.js",
-      "Tailwind", "Ant Design", "Remix",
-    ],
-    backend: [
-      "Node.js", "Express", "Socket.IO",
-    ],
-    database: [
-      "MongoDB", "PostgreSQL",
-      "MySQL",   "Prisma ORM",
-    ],
-    ai: [
-      "GPT-4o", "LangChain", "LangGraph",
-    ],
-    tools: [
-      "Git", "Clerk", "Razorpay", "JWT",
-    ],
-  },
-
-  achievements: {
-    leetcode:   "260+ · Rating 1500+",
-    codeforces: "Rating 1000+",
-    grade:      "82.0%",
-  },
-
-  building: "AI-integrated SaaS 🚀",
-  funFact:  "☕ + 🤖 = Production Apps",
-};
-```
-
-</td>
 </tr>
 </table>
 
 <br/>
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/arun-9406a4283/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-&nbsp;&nbsp;
-<a href="mailto:arun.2024@nst.rishihood.edu.in"><img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer"/>
