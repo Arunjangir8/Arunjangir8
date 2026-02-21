@@ -87,13 +87,6 @@ const arun = {
 };
 ```
 
-<div align="center">
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=arun8886&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=fff&ring_color=00D9FF&hide=contribs&rank_icon=github"/>
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=arun8886&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=fff&currStreakNum=fff&sideNums=fff&dates=888"/>
-
-</div>
 
 </td>
 </tr></table>
@@ -101,11 +94,6 @@ const arun = {
 ---
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-  <img alt="snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="80%"/>
-</picture>
 
 <a href="https://www.linkedin.com/in/arun-9406a4283/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 &nbsp;
