@@ -50,21 +50,21 @@
 
 **DevTools & Deployment**
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel&theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,linux&theme=dark&perline=6"/>
 
 <br/>
 
 **AI & Integrations**
 
-<img src="https://skillicons.dev/icons?i=openai,cloudflare,redis,graphql&theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=cloudflare,redis,graphql&theme=dark&perline=6"/>
 
 <br/>
-
-<!-- skillicons.dev doesn't support LangChain, LangGraph, Razorpay, Clerk, JWT, Socket.IO, Ant Design, Chart.js, Shopify — using flat-square shields for consistency -->
 
 <img src="https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square&logo=graphql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white"/>
+<img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Shopify_Remix-96BF48?style=flat-square&logo=shopify&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=ant-design&logoColor=white"/>
@@ -72,6 +72,7 @@
 <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
 <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=3395FF"/>
+<img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
 
 </div>
 </td>
