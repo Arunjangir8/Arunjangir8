@@ -50,7 +50,7 @@
 
 **DevTools & Deployment**
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,linux&theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel&theme=dark&perline=6"/>
 
 <br/>
 
